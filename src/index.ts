@@ -10,3 +10,4 @@ if(esMultiplo(num1,num2)){
   } else {
    console.log(num1, "No es multiplo de :", num2);
   };
+//Esta muy bien tu solucion
